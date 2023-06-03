@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Lucas Maia or @luqinhaz
-- 👀 I’m interested in JavaScript/Cypress/NodeJS
-- 🌱 I’m currently learning Cypress
+- 👀 I’m interested in Front-End Development
+- 🌱 I’m currently learning HTML/CSS
