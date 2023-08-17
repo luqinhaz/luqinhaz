@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Lucas Maia or @luqinhaz
+- 🐞 Currently working as QA
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning HTML/CSS
+- 🌱 I’m learning HTML / CSS / JS
